@@ -1,5 +1,7 @@
 # 🎧 EchoLens: Multimodal Conversational AI Engine
 
+![EchoLens Preview](Web_interface.png)
+
 **EchoLens** is a powerful multimodal AI application that brings together **text**, **image**, and **audio** inputs to create an intelligent, voice-enabled assistant. It supports conversational memory, vision-language reasoning, speech-to-text (Whisper), and text-to-speech (pyttsx3), all wrapped in a simple API interface.
 
 ---

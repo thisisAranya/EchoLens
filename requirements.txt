@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+psutil
+python-multipart
+Pillow
+openai-whisper
+pyttsx3

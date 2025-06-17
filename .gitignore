@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+temp_audio/
+
+# SQLite
+*.db
+
+# System files
+Thumbs.db
+ehthumbs.db
+
+# PyCharm
+.idea/

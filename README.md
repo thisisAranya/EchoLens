@@ -24,7 +24,7 @@
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/echolens.git
+git clone https://github.com/thisisAranya/echolens.git
 cd echolens
 
 # Install dependencies
@@ -134,7 +134,7 @@ uvicorn img_txt_audio_app:app --reload
 
 ## 📄 License
 
-MIT License © [Your Name]
+MIT License © [Aranya Saha]
 
 ---
 
